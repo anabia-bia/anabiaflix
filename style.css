@@ -1,0 +1,41 @@
+body {
+    background-image: url(gravityfallspicture.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    color: rgb(235, 202, 172);
+    margin: 0px;
+    font-family:"Josefin Sans", sans-serif; ;
+
+}
+header {
+
+    border-bottom: solid 3px rgb(235, 202, 172);
+    padding: 10px;
+    font-size: 25px;
+    color: rgb(235, 202, 172);
+
+}
+
+section {
+    background: rgba(162, 151, 91, 0.381);
+    padding-top: 40;
+    padding-bottom: 40;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 3%;
+}
+
+h1{
+    font-size: 36px;
+
+}
+
+p{
+    font-size: 20px
+
+}
+
